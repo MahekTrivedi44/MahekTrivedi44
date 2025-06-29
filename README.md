@@ -30,7 +30,7 @@ Currently a full-stack developer at **Donestats**, I've worked across DevOps, QA
 
 - 🔎 **ForensIQally:** AI-driven forensic analysis tool  
   🥇 *Winner*, Decoding Data Science Challenge – Top 1 out of 204  
-  👉 [Website](https://forensiqally.com) | [HuggingFace Demo](https://huggingface.co/spaces/ForensIQally/forensiqally)
+  👉 [Website](https://huggingface.co/spaces/ForensIQally/forensiqally) | [Live Demo](https://drive.google.com/drive/folders/1-aQ-A3Vj2IkyQAohewZBa4UdoLF_MJJY)
 
 - 📚 **Bookshop Website:** HTML/CSS + XML/XSL e-commerce project  
   [GitHub](https://github.com/MahekTrivedi44/Book_Shop_Website)
